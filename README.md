@@ -21,7 +21,8 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=IOS&logoColor=white">
+          <img src="https://img.shields.io/badge/IOS-000000?style=flat&logo=IOS&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
