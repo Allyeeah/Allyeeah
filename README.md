@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=94003b&height=180&text=Allyeeah&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:af087a,100:e59a9a&height=180&text=Allyeeah&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Welcome to Allyeeah's space! </h2>  
@@ -33,8 +33,8 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Allyeeah&bg_color=60,ffe0e0,fdf7f7&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyeeah&layout=compact&bg_color=60,ffe0e0,fdf7f7&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Allyeeah&custom_title=Allyeeah's Github Stat&bg_color=60,ffebeb,fdf7f7&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyeeah&layout=compact&bg_color=60,ffebeb,fdf7f7&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
